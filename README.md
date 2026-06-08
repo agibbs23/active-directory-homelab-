@@ -65,7 +65,7 @@ A fully functional Active Directory home lab built on Windows Server to simulate
 | 03-gpresult-applied.png | gpresult confirming IT Lab Policy applied to VM2 |
 | 04-aduc-lab-users-ou.png | ADUC showing VM2, Staff group, and John Smith in Lab Users OU |
 | 05-event-4740-lockout.png | Event Viewer — Event ID 4740 account lockout for jsmith |
-| 06-password-reset.png | Password reset performed on jsmith via ADUC |
+| 06-password-reset.png | V |
 | 07-account-disabled.png | Disabled Accounts OU — John Smith offboarded |
 
 ---
@@ -94,4 +94,3 @@ A fully functional Active Directory home lab built on Windows Server to simulate
 
 ---
 
-*Built as part of my IT home lab portfolio to develop hands-on skills for entry-level IT and help desk roles.*
