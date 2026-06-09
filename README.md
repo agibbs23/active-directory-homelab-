@@ -89,7 +89,7 @@ A fully functional Active Directory home lab built on Windows Server to simulate
 | Configured & linked GPO | Enforcing company IT policies |
 | Joined client VM to domain | Setting up a work computer |
 | Monitored lockout via Event Viewer | Help desk troubleshooting |
-| Reset user password | #1 most common help desk ticket |
+| Reset user password | Common help desk ticket |
 | Disabled & moved account | Employee offboarding |
 
 ---
