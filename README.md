@@ -1,10 +1,10 @@
-# 🖥️ Active Directory Home Lab
+#  Active Directory Home Lab
 
 A fully functional Active Directory home lab built on Windows Server to simulate a real enterprise IT environment. This project covers user management, Group Policy, domain-joined clients, security event monitoring, password management, and account lifecycle management.
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Windows Server (Domain Controller)
 - Active Directory Users and Computers (ADUC)
@@ -14,7 +14,7 @@ A fully functional Active Directory home lab built on Windows Server to simulate
 
 ---
 
-## 📋 What I Built
+##  What I Built
 
 ### 1. Active Directory Domain Setup
 - Created a domain: `lab.local`
@@ -54,7 +54,7 @@ A fully functional Active Directory home lab built on Windows Server to simulate
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 > Screenshots documenting each step are located in the `/screenshots` folder.
 
@@ -65,12 +65,12 @@ A fully functional Active Directory home lab built on Windows Server to simulate
 | 03-gpresult-applied.png | gpresult confirming IT Lab Policy applied to VM2 |
 | 04-aduc-lab-users-ou.png | ADUC showing VM2, Staff group, and John Smith in Lab Users OU |
 | 05-event-4740-lockout.png | Event Viewer — Event ID 4740 account lockout for jsmith |
-| 06-password-reset.png | V |
+| 06-password-reset.png | Password reset performed on jsmith via ADUC |
 | 07-account-disabled.png | Disabled Accounts OU — John Smith offboarded |
 
 ---
 
-## 💡 What I Learned
+##  What I Learned
 
 - How Active Directory structures users, groups, and computers using OUs
 - How GPOs are created, linked, and applied to domain objects
@@ -81,7 +81,7 @@ A fully functional Active Directory home lab built on Windows Server to simulate
 
 ---
 
-## 🎯 Real World Skills Demonstrated
+##  Real World Skills Demonstrated
 
 | Lab Task | Enterprise Equivalent |
 |----------|----------------------|
